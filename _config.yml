@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Data Analyst"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Alexander Pyatlin"
 #description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "bio_photo_circle.png"
   name             : "Alexander Pyatlin"
   #pronouns         : # example: "she/her"  
-  bio              : "A data enthusiast with extensive experience in the banking industry and a passion for turning numbers into meaningful stories. I thrive on solving complex problems and finding smarter ways to make data work for you"
+  bio              : "Data Analyst"
   location         : "Barcelona, Spain"
   #employer         : "Red Brick University"
   #uri              : # URL
