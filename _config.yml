@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alexander Pyatlin/Data Analyst"
+title                    : "Data Analyst"
 title_separator          : "-"
 name                     : &name "Alexander Pyatlin"
 #description              : &description "personal description"
@@ -21,7 +21,7 @@ name                     : &name "Alexander Pyatlin"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio_photo_circle.png"
+  avatar           : "bio_photo_circle.png"
   name             : "Alexander Pyatlin"
   #pronouns         : # example: "she/her"  
   bio              : "A data enthusiast with extensive experience in the banking industry and a passion for turning numbers into meaningful stories. I thrive on solving complex problems and finding smarter ways to make data work for you"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/alexpyatlin/"
+  linkedin         : "alexpyatlin"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
