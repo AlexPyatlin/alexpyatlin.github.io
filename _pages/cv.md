@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 08/2023 - Present: Business Analyst at Yuma Medical | Barcelona, Spain
+* 08/2023 - Present: Business Analyst at Yuma Medical (Barcelona, Spain)
   * Performed advanced sales analysis using SQL and visualized insights in Tableau to
     help the leadership team understand trends and performance
   * Designed a sales and operations dashboard using Tableau and Excel for the CEO,
@@ -26,7 +26,7 @@ that led to increased operational efficiency
   * Led automation of manual reporting processes using Python and SQL, saving the team
 significant time on data collection and analysis
 
-* 12/2022 - 07/2023: Freelance Data Analyst | Barcelona, Spain
+* 12/2022 - 07/2023: Freelance Data Analyst (Barcelona, Spain)
   * Automated the extraction of data from web sources using Python (Selenium),
 significantly reducing manual data collection efforts
   * Developed 10+ interactive dashboards using Tableau to visualize customer behavior
@@ -34,7 +34,7 @@ and segmentation
   * Proposed actionable recommendations based on detailed customer analysis,
 contributing to a 10% increase in customer retention across key segments
 
-* 04/2022 - 11/2022: Data Analyst Intern at Yandex Practicum | Moscow, Russia
+* 04/2022 - 11/2022: Data Analyst Intern at Yandex Practicum (Moscow, Russia)
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
