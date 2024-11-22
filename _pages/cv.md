@@ -11,23 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Data Analytics in Yandex Practicum bootcamp, Russia, 2022
+* Financial management in Northern (Arctic) Federal University, Russia, 2009-2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 08/2023 - Present: Business Analyst at Yuma Medical | Barcelona, Spain
+  * Performed advanced sales analysis using SQL and visualized insights in Tableau to
+    help the leadership team understand trends and performance
+  * Designed a sales and operations dashboard using Tableau and Excel for the CEO,
+reducing reporting time by 5 hours weekly
+  * Collaborated with stakeholders to ensure data accuracy and drive actionable insights
+that led to increased operational efficiency
+  * Led automation of manual reporting processes using Python and SQL, saving the team
+significant time on data collection and analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 12/2022 - 07/2023: Freelance Data Analyst | Barcelona, Spain
+  * Automated the extraction of data from web sources using Python (Selenium),
+significantly reducing manual data collection efforts
+  * Developed 10+ interactive dashboards using Tableau to visualize customer behavior
+and segmentation
+  * Proposed actionable recommendations based on detailed customer analysis,
+contributing to a 10% increase in customer retention across key segments
 
-* Summer 2015: Research Assistant
+* 04/2022 - 11/2022: Data Analyst Intern at Yandex Practicum | Moscow, Russia
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
