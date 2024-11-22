@@ -21,7 +21,7 @@ name                     : &name "Alexander Pyatlin"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/bio_photo_circle.png"
   name             : "Alexander Pyatlin"
   #pronouns         : # example: "she/her"  
   bio              : "A data enthusiast with extensive experience in the banking industry and a passion for turning numbers into meaningful stories. I thrive on solving complex problems and finding smarter ways to make data work for you"
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
