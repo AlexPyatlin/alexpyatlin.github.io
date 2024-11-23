@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Data Analytics in Yandex Practicum bootcamp, Russia, 2022
-* Financial management in Northern (Arctic) Federal University, Russia, 2009-2014
+* Data Analytics at Yandex Practicum bootcamp, Russia, 2022
+* Financial management at Northern (Arctic) Federal University, Russia, 2009-2014
 
 Work experience
 ======
@@ -35,37 +35,28 @@ and segmentation
 contributing to a 10% increase in customer retention across key segments
 
 * 04/2022 - 11/2022: Data Analyst Intern at Yandex Practicum (Moscow, Russia)
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Conducted a food service market research with Python to help investors choose the right location for a cafe
+  * Worked with the data science team to analyze A/B tests and interpret results,
+providing clear insights on feature impact
+  * Used Python to recommend the most profitable mobile tariff, which potentially could reduce advertising costs by 8%
+ 
+* 03/2015 - 10/2022: Lead Specialist at PJSC Sberbank (Moscow, Russia)
+  * Reduced bad debt portfolio by 30% (from $5M to $3.5M) in 2022
+  * Supervised the work of 5 regional branches, resulting in 100% achievement of KPI in 2021
+  * Conducted extensive analysis of distressed assets using SQL and Python, identifying
+key trends that reduced risk exposure
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SQL: joins, subqueries, CTE, window functions, stored procedures, data modeling
+* Python: data manipulation, visualization, APIs, web scraping, statistical tests, data pipelines 
+* Data visualization: Tableau, Power BI, Python libraries
+* Big data: Spark/PySpark
+* Tools: VS Code, Jupiter, Google Colab, pgAdmin
+* Machine Learning: liner and logistic regression, k-Nearest Neighbors, k-Means Clustering
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Russian: native
+* English: full professional proficiency
+* Spanish: limited working proficiency
