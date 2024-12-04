@@ -1,7 +1,7 @@
 ---
 title: "Bank Retain: Customer Churn Analysis and Segmentation"
 excerpt: "The project aims to minimize customer churn by pinpointing key factors influencing attrition and segmenting customers most likely to leave. I have developed a segmentation algorithm to classify customers into three homogeneous segments of relatively similar size and proposed actionable recommendations to enhance retention for each segment.
-
+<br>
 *Figure 1 - Example of churn boundaries used for segment identification*
 <br/><img src='/images/churn_boundaries.jpg'>"
 collection: portfolio
