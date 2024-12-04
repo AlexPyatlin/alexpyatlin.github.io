@@ -48,3 +48,5 @@ Additionally:
 - Highlight security and wealth growth for Segment 0
 - Emphasize flexibility and rewards for Segment 1
 - Promote stability and opportunities for Segment 2.
+
+  [View code on GitHub](https://github.com/AlexPyatlin/portfolio_projects/blob/main/bank_churn_analysis/churn_analysis.ipynb)
